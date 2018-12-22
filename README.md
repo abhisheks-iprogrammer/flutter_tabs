@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<a href="https://user-images.githubusercontent.com/24685929/50378509-123cdf00-0645-11e9-9338-d5f847dd6153"> <img src="https://user-images.githubusercontent.com/24685929/50378509-123cdf00-0645-11e9-9338-d5f847dd6153.gif" height = "500" /></a>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
